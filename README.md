@@ -1,1 +1,3 @@
-# mak17
+# maven-project
+
+Simple Maven Project
